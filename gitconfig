@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vinny-algaron93@hotmail.fr
+	name = Vinny Algaron
